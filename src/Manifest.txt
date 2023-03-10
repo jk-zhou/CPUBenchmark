@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Created-By: J.K. Zhou
+Main-Class: com.jkzhou.cpubenchmark.CPUBenchmark

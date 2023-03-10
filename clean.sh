@@ -1,0 +1,1 @@
+rm -rf build out cpu_benchmark.zip cpu_benchmark.jar
